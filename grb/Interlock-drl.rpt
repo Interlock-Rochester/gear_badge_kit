@@ -1,0 +1,23 @@
+Drill report for G:\My Drive\KiCad Projects\Interlock\Interlock.kicad_pcb
+Created on 10/24/2018 9:38:58 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Interlock-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.90mm  0.035"  (12 holes)
+    T2  3.00mm  0.118"  (1 hole)
+
+    Total plated holes count 13
+
+
+Drill file 'Interlock-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
